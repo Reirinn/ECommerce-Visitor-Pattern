@@ -8,3 +8,6 @@ Implement a visitor design pattern approach. You must show the different element
 
 
 # Class Diagram
+
+
+![Blank diagram (6)](https://github.com/Reirinn/ECommerce-Visitor-Pattern/assets/142465054/1c946b17-a092-42b9-842e-5cb688343ef7)
